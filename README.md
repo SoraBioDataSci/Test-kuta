@@ -1,6 +1,7 @@
 # Data Scientist
 
 ## Education
+BSc Biomedical Science
 MSc Bioinformatics
 
 ### Work Experience
